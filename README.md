@@ -60,7 +60,7 @@ I filled out the necessary details and confirmed it. <br/>
 <br />
 
 <p align="center">
-My Virtual Machine now has the extra disk I attached to it. <br/>
+My Virtual Machine now has the extra disk attached. <br/>
 <img src="https://i.imgur.com/YzpUppB.png" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
