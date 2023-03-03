@@ -2,7 +2,11 @@
 
 <h2>Description</h2>
 
-In this lab, I will attach the extra disk to the virtual machine on azure. 
+In this lab, I will attach an extra disk to my Azure virtual machine running Windows Server 2012 to increase its storage space. I will use the Azure portal and Microsoft Remote Desktop to complete the process.
+
+I'll create a new 4GB disk and attach it to my VM through the Azure portal. Then, I'll configure the disk and create a new volume for it using the Server Manager on my Windows Server 2012 VM. Finally, I'll verify that the extra disk is attached and working correctly.
+
+This lab will provide me with hands-on experience in adding extra storage to virtual machines on Azure, as well as the practical applications of doing so on a Windows Server 2012 VM.
 <br />
 
 <h2>Utilities Used</h2>
